@@ -1,1 +1,2 @@
-Learnign shell scripting  is fun
+# Learning shell basics - very fun
+alx-system_engineering-devops
